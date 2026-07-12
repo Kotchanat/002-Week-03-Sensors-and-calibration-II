@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week-03-04-Sensor-vs-Transducer.md",
+                "file": "Week-03-Lab sheet 03 LDR and calibration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week-03-04-Sensor-vs-Transducer"
+              "title": "Week-03-Lab sheet 03 LDR and calibration"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week-03-03-Physical to Electrical to Digital.md",
+                "file": "Week-03-Lab sheet 03 LDR and calibration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week-03-03-Physical to Electrical to Digital"
+              "title": "Outline of Week-03-Lab sheet 03 LDR and calibration"
             }
           },
           {
@@ -205,21 +205,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "914d1bc10e559287",
+  "active": "85788eb0f92ec94b",
   "lastOpenFiles": [
+    "Images/Add_Scatter_Chart.png",
+    "Week-03-Lab sheet 03 LDR and calibration.md",
+    "Pasted image 20260713013048.png",
+    "Images/Add-Trend-Line.png",
+    "Images/Select_data.png",
+    "Images/input_data.png",
+    "Week-03-05-Signal-Integrity.md",
+    "Images/What_is_LDR.png",
+    "Gemini_Generated_Image_bahsrjbahsrjbahs 1.png",
+    "Images/LDR_and_R10k.png",
+    "Week-03-04-Sensor-vs-Transducer.md",
     "Week-03.md",
     "Images/Large_noise_Small_signal.png",
     "Images/Good_Signal_Before_ADC.png",
-    "Images/ADC_Limitation.png",
-    "Images/Small_Signal_Larger_noise.png",
-    "Week-03-05-Signal-Integrity.md",
-    "Images/Sensor_Stage.png",
-    "Images/Demage_Signal_Integrity.png",
-    "Images/Crosstalk.png",
-    "Images/Ground_Loop.png",
-    "Images/Voltage_Drop.png",
-    "Images/Source_of_Noise.png",
-    "Week-03-04-Sensor-vs-Transducer.md",
     "Week-03-03-Physical to Electrical to Digital.md",
     "Week-03-01_Physical_World.md",
     "Week-03-02-Digital-World.md",
