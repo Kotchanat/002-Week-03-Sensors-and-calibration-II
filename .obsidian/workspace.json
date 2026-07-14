@@ -205,13 +205,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "914d1bc10e559287",
+  "active": "71230346fe056fc1",
   "lastOpenFiles": [
-    "Week-03.md",
+    "Images/10_Magnetic_Energy_to_IoT.png",
+    "Images/7_Chemical_Energy.png",
     "67030002/Homework 67030002.md",
-    "67030002",
     "Week-03-01_Physical_World.md",
     "Week-03-02-Digital-World.md",
+    "Week-03.md",
+    "67030002",
     "Week-03-03-Physical to Electrical to Digital.md",
     "Week-03-04-Sensor-vs-Transducer.md",
     "Week-03-05-Signal-Integrity.md",
@@ -226,7 +228,6 @@
     "Images/input_data.png",
     "Images/What_is_LDR.png",
     "Gemini_Generated_Image_bahsrjbahsrjbahs 1.png",
-    "Images/LDR_and_R10k.png",
     "Week-03-Sensors-and-calibration-II.md"
   ]
 }
